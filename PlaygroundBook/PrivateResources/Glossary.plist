@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>ar</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter%201/1.%20Introduction</string>
+				<key>Title</key>
+				<string>1. Introduction</string>
+			</dict>
+			<key>Definition</key>
+			<string>Short for Augmented Reality, is the display of digital images or other information onto the real world.</string>
+		</dict>
+		<key>procreate</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter%201/1.%20Introduction</string>
+				<key>Title</key>
+				<string>1. Introduction</string>
+			</dict>
+			<key>Definition</key>
+			<string>A perfect tool catering to artists from beginners to professionals</string>
+		</dict>
+		<key>scene</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter%203/3.%20Understanding%20the%20Environment%20🌏</string>
+				<key>Title</key>
+				<string>3. Understanding the Environment 🌏</string>
+			</dict>
+			<key>Definition</key>
+			<string>Scenes allow us to add realistic three-dimensional objects to your AR experience.</string>
+		</dict>
+		<key>function</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter%203/3.%20Understanding%20the%20Environment%20🌏</string>
+				<key>Title</key>
+				<string>3. Understanding the Environment 🌏</string>
+			</dict>
+			<key>Definition</key>
+			<string>A function is a block of organized, reusable code that is used to perform a single, related action</string>
+		</dict>
+		<key>plane</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter%203/3.%20Understanding%20the%20Environment%20🌏</string>
+				<key>Title</key>
+				<string>3. Understanding the Environment 🌏</string>
+			</dict>
+			<key>Definition</key>
+			<string>A 2D surface that ARKit detects in the physical environment. Each plane anchor provides details about the surface, like its real world position and shape.</string>
+		</dict>
+		<key>point</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter%203/3.%20Understanding%20the%20Environment%20🌏</string>
+				<key>Title</key>
+				<string>3. Understanding the Environment 🌏</string>
+			</dict>
+			<key>Definition</key>
+			<string>Representing results of the scene analysis ARKit uses to perform world tracking.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
