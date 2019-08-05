@@ -15,3 +15,11 @@ The presentation followed with a short introductory class to programming in Swif
 
 We invited participants to create a drawing in ProCreate (5-10 minutes), before through a series of short introductory session on programming to place their drawing within an AR experience.
 
+
+
+### Release
+
+We've released the tutorial and code for others to learn and explore Swift Playgrounds. Check out **Releases** for the compiled Playground Book.
+
+(Use AirDrop to transfer the .playground from your device to iPad.)
+
