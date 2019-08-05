@@ -1,4 +1,4 @@
-# [<img src="https://cdn.rawgit.com/ShadowFactory/TodayAtApple-SwiftPlaygroundsAR/master/cover.png">](https://github.com/ShadowFactory/TodayAtApple-SwiftPlaygroundsAR)
+# [<img src="https://raw.githubusercontent.com/ShadowFactory/TodayAtApple-SwiftPlaygroundsAR/master/cover.png">](https://github.com/ShadowFactory/TodayAtApple-SwiftPlaygroundsAR)
 
 
 # TodayAtApple
